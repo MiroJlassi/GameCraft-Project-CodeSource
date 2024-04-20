@@ -1,2 +1,11 @@
 # GameCraft-Project-CodeSource
 detailed GameCodeSource
+
+link to game: 
+https://drive.google.com/drive/folders/1q4uQarO8Gwz0yDVoSras5GKa5d7t9m18?usp=sharing
+
+link to some screen records:
+https://drive.google.com/drive/folders/1MXKhZ0-ybcBfmSFs56gQ-Vd1aSg3z-s3?fbclid=IwZXh0bgNhZW0CMTAAAR3zZyqvaxM_sc7Kylc6RCQPtAsx_47vcznTS20H5yVA0F1n1tgTCFukWXo_aem_AQwBOJbVE9cuIfLeZzVVgWi5UL31GdhVY-myuDJORoG1t7fu0tCV4PC5fGVc1xcjJ7A1pXAiJpatbhyPeicTfG2I
+
+link to presentation:
+https://www.canva.com/design/DAGC_TPNjG0/UwyuOIPRRKFSogYpLXfGgw/edit?fbclid=IwZXh0bgNhZW0CMTAAAR0aS9GqtOmQUxcN6craTcSehPssiMV2l45A_9UIuvfVEtH26VPPqVLyCnE_aem_AQwJxXMtkrzM1ZSi1zvblK-nI2KZ3Ij9h9xp9TIvX-azgu_9uI0Xeg0thiUQcYnHvic_02clAD27qxuyAf8MYcjQ
